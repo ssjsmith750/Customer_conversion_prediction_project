@@ -41,5 +41,5 @@ Getting Started
 Clone this repository
 Install the necessary packages listed in requirements.txt
 Run the main.py script to train and test the models
-Author
-[Your Name Here]
+
+
