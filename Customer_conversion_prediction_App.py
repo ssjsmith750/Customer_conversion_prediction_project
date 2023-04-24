@@ -1,4 +1,4 @@
-
+!pip install --upgrade xgboost
 import streamlit as st
 import pandas as pd
 import pickle
